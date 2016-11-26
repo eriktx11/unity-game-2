@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/adr_balance.cs">
     <Files>
-      <File FileName="Assets/scripts/adr_balance.cs" Line="69" Column="23" />
+      <File FileName="Assets/scripts/adr_balance.cs" Line="16" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
